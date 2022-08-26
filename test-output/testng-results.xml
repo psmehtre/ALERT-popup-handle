@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T19:13:29 BDT" name="Default suite" finished-at="2021-09-25T19:13:40 BDT" duration-ms="11087">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T19:13:29 BDT" name="Default test" finished-at="2021-09-25T19:13:40 BDT" duration-ms="11087">
+      <class name="alert_popups.HandlingAlert">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:alert_popups.HandlingAlert@8317c52]" started-at="2021-09-25T19:13:28 BDT" name="setDriver" finished-at="2021-09-25T19:13:29 BDT" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="Alert()[pri:0, instance:alert_popups.HandlingAlert@8317c52]" started-at="2021-09-25T19:13:29 BDT" name="Alert" finished-at="2021-09-25T19:13:40 BDT" duration-ms="11070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alert -->
+        <test-method is-config="true" signature="close()[pri:0, instance:alert_popups.HandlingAlert@8317c52]" started-at="2021-09-25T19:13:40 BDT" name="close" finished-at="2021-09-25T19:13:44 BDT" duration-ms="4128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- alert_popups.HandlingAlert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
